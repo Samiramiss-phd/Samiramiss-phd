@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Samiramiss-phd
+- 👋 Hi, I’m @Samiramiss-phd.
+     I am a cognitive neuroscientist with experience in research, leadership, and teaching. Before transitioning to academia, I worked as a radiographer.
 - 👀 I’m interested in Cognitive and Social Neuroscience, Cognitive (Neuro)Politics, and Evolutionary Cognitive Adaptations.
      More specifically, my focus includes Automatic and Controlled Visual Attention, Reward and Threat Processing, and Decision-Making, as well as 
      the Impact of Violence and Trauma on the Well-being and Choices of Individuals at personal, familial, professional, and societal levels.
